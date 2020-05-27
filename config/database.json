@@ -1,0 +1,8 @@
+{
+    "host":"localhost",
+    "user":"root",
+    "password":"",
+    "database":"roulette_node",
+    "timezone":"utc",
+    "dateStrings":true
+}
